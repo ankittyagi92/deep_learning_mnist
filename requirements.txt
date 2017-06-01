@@ -1,0 +1,6 @@
+Keras.egg==info
+matplotlib==1.5.1
+numpy==1.11.3
+scipy==0.18.1
+keras==1.2.1
+scikit_learn==0.18.1
